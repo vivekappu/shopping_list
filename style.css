@@ -1,0 +1,38 @@
+
+button{
+    margin-left:10px;
+    
+    color:blue;
+    background-color: aliceblue;
+}
+
+.done{
+    text-decoration:line-through;
+}
+h1{
+    font-size:3em;
+    
+    color:#A91638;
+    box-shadow: 5px 7px #C73255;
+}
+input{
+    padding:0.5em;
+}
+button{
+    padding:0.5em;
+}
+ul{
+    font-size:1.5em;
+    cursor:pointer;
+    margin:0 auto;
+}
+
+body{
+    background:whitesmoke;
+    color:black;
+    display:flex;
+    justify-content: center;
+}
+div{
+    margin-bottom:50px;
+}
